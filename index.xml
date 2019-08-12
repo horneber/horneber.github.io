@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Just Music on Just Music - Duo</title>
-    <link>https://example.com/</link>
+    <link>https://horneber.github.io/</link>
     <description>Recent content in Just Music on Just Music - Duo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://horneber.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Datenschutzerklärung</title>
-      <link>https://example.com/datenschutz/</link>
+      <link>https://horneber.github.io/datenschutz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/datenschutz/</guid>
+      <guid>https://horneber.github.io/datenschutz/</guid>
       <description>DSVGO Erklärung Diese Seite bla bla Cookies bla bla.</description>
     </item>
     
     <item>
       <title>Impressum</title>
-      <link>https://example.com/impressum/</link>
+      <link>https://horneber.github.io/impressum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/impressum/</guid>
+      <guid>https://horneber.github.io/impressum/</guid>
       <description>Verantwortlich im Sinne des rechtlichen Bla Blas:
 Max Mustermann
 Beispielstraße 3
@@ -33,20 +33,20 @@ Beispielstraße 3
     
     <item>
       <title>Info</title>
-      <link>https://example.com/info/</link>
+      <link>https://horneber.github.io/info/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/info/</guid>
+      <guid>https://horneber.github.io/info/</guid>
       <description>Langer Text darüber wie spannend Duo Musik prinzipiell ist und was Andreas und Pete so alles schon so gemacht haben.
 Ganz schön viel Text und vielleicht auch noch ein Bild. </description>
     </item>
     
     <item>
       <title>Kontakt</title>
-      <link>https://example.com/kontakt/</link>
+      <link>https://horneber.github.io/kontakt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/kontakt/</guid>
+      <guid>https://horneber.github.io/kontakt/</guid>
       <description>Max Mustermann
 Musterstraße 1234
 30123 Burgdorf
@@ -56,20 +56,20 @@ Telephon: 555-123 456 789</description>
     
     <item>
       <title>Medien</title>
-      <link>https://example.com/media/</link>
+      <link>https://horneber.github.io/media/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/media/</guid>
+      <guid>https://horneber.github.io/media/</guid>
       <description>Hier kommen youtube videos hin&amp;hellip; Also Musik. Und Krams halt.
     </description>
     </item>
     
     <item>
       <title>Veranstaltungen</title>
-      <link>https://example.com/veranstaltungen/</link>
+      <link>https://horneber.github.io/veranstaltungen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/veranstaltungen/</guid>
+      <guid>https://horneber.github.io/veranstaltungen/</guid>
       <description> gig nummer eins gig nummer zwei lange tour  </description>
     </item>
     

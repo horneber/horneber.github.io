@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Just Music on Just Music - Duo</title>
+    <link>https://horneber.github.io/</link>
+    <description>Recent content in Just Music on Just Music - Duo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    
+	<atom:link href="https://horneber.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Datenschutzerklärung</title>
+      <link>https://horneber.github.io/datenschutz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://horneber.github.io/datenschutz/</guid>
+      <description>DSVGO Erklärung Diese Seite bla bla Cookies bla bla.</description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://horneber.github.io/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://horneber.github.io/impressum/</guid>
+      <description>Verantwortlich im Sinne des rechtlichen Bla Blas:
+Max Mustermann
+Beispielstraße 3
+12345 Wohnort</description>
+    </item>
+    
+    <item>
+      <title>Info</title>
+      <link>https://horneber.github.io/info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://horneber.github.io/info/</guid>
+      <description>Langer Text darüber wie spannend Duo Musik prinzipiell ist und was Andreas und Pete so alles schon so gemacht haben.
+Ganz schön viel Text und vielleicht auch noch ein Bild.    Jazz Duo - Just Music
+   </description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://horneber.github.io/kontakt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://horneber.github.io/kontakt/</guid>
+      <description>Max Mustermann
+Musterstraße 1234
+30123 Burgdorf
+Email: me@example.com
+Telephon: 555-123 456 789</description>
+    </item>
+    
+    <item>
+      <title>Medien</title>
+      <link>https://horneber.github.io/media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://horneber.github.io/media/</guid>
+      <description>Leider scheint dieser Text notwendig zu sein, um dem Browser eine vernünftige Darstellung abzuringen.
+Musik   Bilder    D s c f1713
+      D s c 0065
+      D s c 0092
+      D s c 0099
+      D s c 0142
+      D s c 0162</description>
+    </item>
+    
+    <item>
+      <title>Veranstaltungen</title>
+      <link>https://horneber.github.io/veranstaltungen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://horneber.github.io/veranstaltungen/</guid>
+      <description> gig nummer eins gig nummer zwei lange tour  </description>
+    </item>
+    
+  </channel>
+</rss>

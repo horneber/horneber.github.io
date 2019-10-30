@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Just Music on Just Music - Duo</title>
+    <title>Just Music on Andreas Schwenke - Peter Missler Duo</title>
     <link>https://horneber.github.io/</link>
-    <description>Recent content in Just Music on Just Music - Duo</description>
+    <description>Recent content in Just Music on Andreas Schwenke - Peter Missler Duo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     
@@ -37,9 +37,9 @@ Beispielstraße 3
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://horneber.github.io/info/</guid>
-      <description>Langer Text darüber wie spannend Duo Musik prinzipiell ist und was Andreas und Pete so alles schon so gemacht haben.
-Ganz schön viel Text und vielleicht auch noch ein Bild.    Jazz Duo - Just Music
-   </description>
+      <description>Andreas Schwenke/ Peter Missler Duo
+Glücklicherweise begegneten sich Andreas Schwenke und Peter Missler in den 70er Jahren während des Studiums in Hannover bei verschiedenen Bandprojekten. Daraus hat sich eine Zusammenarbeit ergeben, die nicht nur die Jahre überdauerte, sondern in die Königsdisziplin des musikalischen Dialogs mündete&amp;hellip;.
+Das Duo ist eine musikalische Extremsituation- keine andere Formation hat diese besondere Beziehung zwischen Freiheit und Gebundenheit, zwischen Ausschweifung und Disziplin, die gerade im Jazz zu einer solchen Vielfältigkeit und Lebendigkeit führt.</description>
     </item>
     
     <item>
@@ -61,22 +61,26 @@ Telephon: 555-123 456 789</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://horneber.github.io/media/</guid>
-      <description>Leider scheint dieser Text notwendig zu sein, um dem Browser eine vernünftige Darstellung abzuringen.
-Musik   Bilder    D s c f1713
-      D s c 0065
-      D s c 0092
-      D s c 0099
-      D s c 0142
-      D s c 0162</description>
+      <description>Musik   Bilder Alle live Fotos sind gemacht worden von Norman Mayers.
+D s c f1713
+D s c 0065
+D s c 0092
+D s c 0099
+D s c 0142
+D s c 0162</description>
     </item>
     
     <item>
-      <title>Veranstaltungen</title>
+      <title>Veranstaltungen/Presse</title>
       <link>https://horneber.github.io/veranstaltungen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://horneber.github.io/veranstaltungen/</guid>
-      <description> gig nummer eins gig nummer zwei lange tour  </description>
+      <description>Foto: Heide Efstratiadis
+Quelle: Jürgen Zimmer
+2018:
+ Juni, Flotart Festival Eicklingen September, Künstlerhaus Hannover November, Isernhagenhof, Isernhagen  2019:
+ Juni, Bomlitzer Mühle, Bomlitz Oktober, Celle, Privat  </description>
     </item>
     
   </channel>

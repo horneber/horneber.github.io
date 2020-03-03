@@ -17,7 +17,7 @@ Grid Layout Styles
     position: relative;
     /* Default: 1 tile wide */
     width: 100%;
-    padding-bottom: 100%; 
+    padding-bottom: 100%;
 }
 @media only screen and (min-width : 365px) {
     /* Tablet view: 2 tiles */
@@ -66,6 +66,12 @@ figure styles
 figure {
     position:relative; /* purely to allow absolution positioning of figcaption */
     overflow: hidden;
+	
+	-webkit-box-shadow: 10px 10px 10px 0px rgba(197,197,197,0.5);
+    -moz-box-shadow: 10px 10px 10px 0px rgba(197,197,197,0.5);
+    box-shadow: 10px 10px 10px 0px rgba(197,197,197,0.5);
+	
+	border-radius: 4px;
 }
 .gallery figure {
     position: absolute;
@@ -73,6 +79,7 @@ figure {
     right: 5px;
     top: 5px;
     bottom: 5px;
+	
 }
 .gallery.hover-effect-grow figure:hover {
     transform: scale(1.05);
